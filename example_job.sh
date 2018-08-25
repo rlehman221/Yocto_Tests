@@ -1,2 +1,4 @@
+#!/bin/bash
+
 echo "This is an example file"
 
